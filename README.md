@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Marnissi Ahmed Mustapha
 
 🎓 Embedded Systems Student | 💻 Desktop Developer  
@@ -33,12 +31,10 @@ Passionate about creating clean, maintainable, and robust desktop applications u
 
 ## 📫 Contact Me
 
-Feel free to reach out for collaboration or just to connect!
-
-- 📧 Email: *(you can provide it if you want)*
-- 💼 LinkedIn: *(optional)*
-- 🧠 GitHub Projects: Browse my pinned repos to see my work.
+- 📧 Email: [marnissiahmed1911@gmail.com](mailto:marnissiahmed1911@gmail.com)  
+- 💼 LinkedIn: [Marnissi Ahmed](https://www.linkedin.com/in/marnissi-ahmed)
 
 ---
 
 > ⚡ *Always learning, always building.*
+
