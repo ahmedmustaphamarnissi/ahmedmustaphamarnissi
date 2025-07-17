@@ -32,7 +32,7 @@ Passionate about creating clean, maintainable, and robust desktop applications u
 ## 📫 Contact Me
 
 - 📧 Email: [marnissiahmed1911@gmail.com](mailto:marnissiahmed1911@gmail.com)  
-- 💼 LinkedIn: [Marnissi Ahmed](https://www.linkedin.com/in/marnissi-ahmed)
+- 💼 LinkedIn: [Marnissi Ahmed](https://www.linkedin.com/in/marnissi-ahmed-667382356/)
 
 ---
 
