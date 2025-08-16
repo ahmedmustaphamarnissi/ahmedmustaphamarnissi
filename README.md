@@ -47,8 +47,8 @@ I enjoy creating desktop applications, exploring system programming, and learnin
 ---
 
 ## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmustaphamarnissi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmustaphamarnissi&layout=compact&theme=radical)
 
 ---
 
