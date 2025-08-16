@@ -2,13 +2,13 @@
 
 🎓 Embedded Systems Student | 💻 Desktop Developer  
 📍 Based in Tunisia  
-Passionate about creating clean, maintainable, and robust desktop applications using modern technologies.
+Passionate about creating clean, maintainable, and robust desktop applications and websitesusing modern technologies.
 
 ---
 
 ## 👨‍💻 About Me
 I’m an Embedded Systems student passionate about software development and low-level programming.  
-I enjoy creating desktop applications, exploring system programming, and learning new technologies every day.  
+I enjoy creating desktop applications and websites, exploring system programming, and learning new technologies every day.  
 
 ---
 
@@ -39,12 +39,6 @@ I enjoy creating desktop applications, exploring system programming, and learnin
 
 ---
 
-## 🛠️ Featured Projects
-- 🚦 **Traffic Light Simulator** – A WinForms app simulating traffic light control.  
-- 📑 **DVLD Management System** – A C# project for driving license management.  
-- 🛒 **Online Store Website** – A responsive e-commerce website using HTML, CSS, and JavaScript.  
-
----
 
 ## 📊 GitHub Stats
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmustaphamarnissi&show_icons=true&theme=radical)  
