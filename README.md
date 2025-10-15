@@ -23,8 +23,8 @@ I'm passionate about building **clean, maintainable, and robust** desktop applic
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
@@ -45,4 +45,3 @@ I'm passionate about building **clean, maintainable, and robust** desktop applic
 ---
 
 > ⚡ *Always learning, always building.*
-
