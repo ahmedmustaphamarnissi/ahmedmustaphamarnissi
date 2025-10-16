@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marnissi Ahmed Mustapha
 
-🎓 **Embedded Systems Student** | 💻 **Desktop & API Developer**  
+🎓 **Embedded Systems Student** | 💻 **Full-Stack Developer**  
 📍 *Based in Tunisia*  
 
 I'm passionate about building **clean, maintainable, and robust** desktop applications, RESTful APIs, and modern web interfaces using the latest technologies.
