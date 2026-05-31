@@ -23,8 +23,6 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedMustaphaMarnissi&theme=darkhub)](https://github.com/AhmedMustaphaMarnissi/)
-
 ## 🔧 Technologies & Tools
 
 <div align="center">
@@ -62,19 +60,6 @@
       <td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" title="Windows"/></code></td>
     </tr>
   </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMustaphaMarnissi&theme=highcontrast" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMustaphaMarnissi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMustaphaMarnissi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
 </div>
 
 <br>
