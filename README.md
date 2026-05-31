@@ -2,11 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Marnissi%20Ahmed%20Mustapha-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marnissi-ahmed-mustapha/)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:marnissiahmed1911@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow\&style=social) <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views"/>
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow\&style=social) 
 
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+Student;Full+Stack+Developer;Desktop+Application+Developer;Microcontroller+Enthusiast;Always+Learning+Always+Building">
@@ -82,21 +80,6 @@
 
 <br>
 
-## 🚀 Featured Projects
-
-### 🎮 GameZone
-
-Steam-inspired desktop application built with C#, SQL Server, and Clean Architecture principles.
-
-### 🚗 Driving License Management System
-
-Three-tier architecture application developed with C#, WinForms, SQL Server, and Entity Framework.
-
-### 📊 Dashboard Management System
-
-Responsive admin dashboard built with HTML, CSS, JavaScript, and modern UI practices.
-
-<br>
 
 ## 📈 GitHub Statistics
 
