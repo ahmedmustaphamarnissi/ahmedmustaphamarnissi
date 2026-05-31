@@ -53,8 +53,6 @@
       <td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="STM32" title="STM32"/></code></td>
       <td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code></td>
       <td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub"/></code></td>
-    </tr>
-    <tr>
       <td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code></td>
       <td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger"/></code></td>
       <td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" title="Windows"/></code></td>
