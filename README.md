@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00C2FF&size=22&center=true&lines=I'm+Embedded+Systems+Student;I'm+Full+Stack+Developer;I'm+Desktop+Developer;Always+Learning+%E2%80%94+Always+Building">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00C2FF&size=22&center=true&lines=I'm+Embedded+Systems+Student;I'm+Full+Stack+Developer;Always+Learning+%E2%80%94+Always+Building">
 </p>
 
 <br>
