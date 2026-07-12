@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🖥️ I am an **Embedded Systems Student** | **Full Stack Developer** | **Desktop Developer** based in Bizerte, Tunisia 📍
+- 🖥️ I am an **Embedded Systems Student** | **Full Stack Developer**  based in Bizerte, Tunisia 📍
 - 🛠️ I enjoy building **desktop applications**, **embedded systems**, and **modern web interfaces**.  
   I focus on writing **clean**, **maintainable**, and **well-structured code**.
 - ✉️ You can contact me at [marnissiahmed1911@gmail.com](mailto:marnissiahmed1911@gmail.com) or at [my LinkedIn](https://www.linkedin.com/in/marnissi-ahmed-mustapha/)
